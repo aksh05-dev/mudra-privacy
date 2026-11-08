@@ -33,3 +33,6 @@ If this policy changes, the new version will be published at this address with a
 
 ## Contact
 Questions or requests: open an issue at https://github.com/aksh05-dev/mudra-privacy/issues
+
+---
+See also the [Mudra terms of use](./terms).
